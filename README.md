@@ -4,5 +4,5 @@
 ```
 - Run notebook.ipynb & config arg
 ```
-!python main.py --content='png/content.png' --style='png/vangogh.jpg' --style_weight=1e9 --total_step 2000
+!python main.py --content='assets/content.png' --style='assets/vangogh.jpg' --style_weight=1e9 --total_step 2000
 ```
