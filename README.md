@@ -4,7 +4,7 @@
 ```
 - Move to folder Neural-style-transfer & install packages in requirements.txt. If you use Google Colab, you don't need to do this step
 ```
-!pip install requirements.txt
+!pip install -r requirements.txt
 ```
 - Run notebook.ipynb & config arg
 ```
